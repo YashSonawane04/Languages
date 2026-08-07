@@ -4,6 +4,17 @@ A quick-reference guide covering core Python: data types, OOP, language features
 
 ---
 
+## Table of Contents
+
+1. [Data Types & Structures](#1-data-types--structures)
+2. [Object-Oriented Programming](#2-object-oriented-programming)
+3. [Python Language-Specific Features](#3-python-language-specific-features)
+4. [Managing a Python Project](#4-managing-a-python-project)
+5. [Advanced Data Structures for Dynamic Programming & Algorithms](#5-advanced-data-structures-for-dynamic-programming--algorithms)
+6. [Quick Reference: When to Use What](#6-quick-reference-when-to-use-what)
+
+---
+
 ## 1. Data Types & Structures
 
 ### 1.1 Primitive Types

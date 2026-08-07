@@ -9,6 +9,7 @@ Available languages:
   - [Mermaid (Charts)](./languages/markup-markdown/Mermaid.md)
 
 - Programming Languages:
-  - [Python](./languages/python/python.md)
+  - [Python](./languages/programming/python/python.md)
 
 - Query Languages:
+  - [SQL](./languages/query/sql.md)

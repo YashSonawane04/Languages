@@ -4,7 +4,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-1. __Headings:__
+## 1. __Headings:__
 
    create headings with "#" prepending the content
 
@@ -16,7 +16,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-2. __Emphasis:__
+## 2. __Emphasis:__
 
    Adding extra features like Bold, Italic, StrikeThrough(dashed) content
 
@@ -41,7 +41,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-3. __Lists:__
+## 3. __Lists:__
 
    creating Lists
 
@@ -61,7 +61,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-4. __Links:__
+## 4. __Links:__
 
    Adding external links
 
@@ -71,7 +71,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-5. __Images:__
+## 5. __Images:__
 
    combining or Integrating Images for output
 
@@ -81,13 +81,13 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-6. __BackQoutes:__
+## 6. __BackQoutes:__
 
    > `> content`
 
 ---
 
-7. __Code Blocks:__
+## 7. __Code Blocks:__
 
    - Inline code:
      ```Markdown
@@ -103,7 +103,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-8. __Horizontal Lines:__
+## 8. __Horizontal Lines:__
 
    Adding Horizontal Lines for partitioning page
 
@@ -115,7 +115,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-9. __Tables:__
+## 9. __Tables:__
 
    Creating Tables for display
    - __Normal Table:__
@@ -146,7 +146,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-10. __Task Lists:__
+## 10. __Task Lists:__
     Create Check-box pattern
     ```Markdown
     - [x] Completed Task
@@ -155,7 +155,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-11. __Footnotes:__
+## 11. __Footnotes:__
     Adding Footnotes.[^1]
     [^1]: Example footnote
     ```Markdown
@@ -165,7 +165,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-12. __Emojis:__
+## 12. __Emojis:__
     Adding Emojis to content 📃
     ```Markdown
     content before emoji :Emoji_name: content after emoji
@@ -173,7 +173,7 @@ Used for showing contents on Platforms (For Ex. Github)
 
 ---
 
-13. __Comments:__
+## 13. __Comments:__
     ```markdown
     <!-- Comment -->
     ```
