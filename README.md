@@ -13,3 +13,4 @@ Available languages:
 
 - Query Languages:
   - [SQL](./languages/query/sql.md)
+  - [DAX](./languages/query/DAX.md)
