@@ -10,6 +10,7 @@ Available languages:
 
 - Programming Languages:
   - [C#/CSharp](./languages/programming/.NET/CSharp.md)
+  - [Fortran](./languages/programming/fortran/fortran.md)
   - [F#/FSharp](./languages/programming/.NET/FSharp.md)
   - [Python](./languages/programming/python/python.md)
 
