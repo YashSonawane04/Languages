@@ -9,9 +9,11 @@ Available languages:
   - [Mermaid (Charts)](./languages/markup-markdown/Mermaid.md)
 
 - Programming Languages:
-  - [C#/CSharp](./languages/programming/.NET/CSharp.md)
+  - [C++](./languages/programming/cpp/cpp.md)
   - [Fortran](./languages/programming/fortran/fortran.md)
-  - [F#/FSharp](./languages/programming/.NET/FSharp.md)
+  - .NET
+	- [C#/CSharp](./languages/programming/.NET/CSharp.md)
+	- [F#/FSharp](./languages/programming/.NET/FSharp.md)
   - [Python](./languages/programming/python/python.md)
 
 - Query Languages:
