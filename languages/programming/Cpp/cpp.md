@@ -285,6 +285,8 @@ auto add(auto a, auto b) { return a + b; }
 
 ### 3.2 Standard Template Library (STL)
 
+Look at [stl.md](./stl.md) for better 
+
 | Category | Examples | Header |
 |---|---|---|
 | Sequence containers | `vector`, `array`, `deque`, `list`, `forward_list` | `<vector>`, `<array>`, `<deque>`, `<list>` |
